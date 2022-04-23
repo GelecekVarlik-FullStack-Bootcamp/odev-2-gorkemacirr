@@ -13,3 +13,5 @@ C:\Users\HP\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.
 C:\Users\HP\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Entity.dll
 C:\Users\HP\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Entity.pdb
 C:\Users\HP\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.CopyComplete
+C:\Users\HP\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\HP\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Interface.pdb

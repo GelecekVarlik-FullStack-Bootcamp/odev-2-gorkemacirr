@@ -9,7 +9,8 @@
       "Northwind.Bll/1.0.0": {
         "dependencies": {
           "AutoMapper": "11.0.1",
-          "Northwind.Entity": "1.0.0"
+          "Northwind.Entity": "1.0.0",
+          "Northwind.Interface": "1.0.0"
         },
         "runtime": {
           "Northwind.Bll.dll": {}
@@ -1060,6 +1061,14 @@
         "runtime": {
           "Northwind.Entity.dll": {}
         }
+      },
+      "Northwind.Interface/1.0.0": {
+        "dependencies": {
+          "Northwind.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Northwind.Interface.dll": {}
+        }
       }
     }
   },
@@ -1735,6 +1744,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Northwind.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Northwind.Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

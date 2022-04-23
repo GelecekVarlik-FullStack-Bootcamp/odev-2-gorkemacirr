@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Northwind.Bll
 {
-    internal class ObjectMapperCustomer
+    internal class ObjectMapper
     {
         static readonly Lazy<IMapper> lazy = new Lazy<IMapper>(() =>
         {
